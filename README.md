@@ -61,8 +61,8 @@ This experience helped me understand **software design, debugging, and user-focu
 
   How to Reach Me
 - 📧 Email: **mohithpupppala@gmail.com**
-- 💼 LinkedIn: *Add your LinkedIn profile link here*
-- 🌐 Portfolio: *Add your portfolio link here*
+- 💼 LinkedIn: www.linkedin.com/in/mohithpuppala
+- 🌐 Portfolio:  https://nextjs-portfolio-st21rq83o-mohiths-projects-219e2361.vercel.app/
 
 ---
 
