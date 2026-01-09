@@ -1,16 +1,3 @@
- Hi there 👋 I’m Venkata Mohith Puppala
-
-🎓 Computer Science undergraduate | Aspiring Software Engineer  
-💻 Passionate about building real-world software and learning systems deeply  
-
----
-
-👨‍💻 About Me
-I’m a Computer Science student who enjoys turning ideas into working software.  
-I started my journey building **desktop applications using PyQt during my DRDO internship**, and I’m now focused on **full-stack web development** using modern technologies.
-
-I strongly believe in **learning by building** — understanding how things work internally, not just making them work.
-
 ---# 💫 About Me:
 Hi there 👋 I’m Venkata Mohith Puppala<br><br>🎓 Computer Science undergraduate | Aspiring Software Engineer<br>💻 Passionate about building real-world software and learning systems deeply<br><br>👨‍💻 About Me I’m a Computer Science student who enjoys turning ideas into working software.<br>I started my journey building desktop applications using PyQt during my DRDO internship, and I’m now focused on full-stack web development using modern technologies.<br><br>I strongly believe in learning by building — understanding how things work internally, not just making them work.<br><br>What I’m Currently Working On<br><br>Building full-stack projects using React, Next.js, Node.js, and MongoDB<br>Improving my problem-solving & core CS fundamentals<br>Exploring system design, security concepts, and scalable applications<br>Enhancing my developer portfolio with real, end-to-end projects<br>Technologies & Tools Languages<br><br>Python, Java, JavaScript, C<br>Frontend<br><br>HTML, CSS, React.js, Next.js<br>Backend<br><br>Node.js, Express.js<br>MongoDB<br>Other Tools & Concepts<br><br>Git & GitHub<br>REST APIs<br>PyQt (Desktop Applications)<br>Basic Cloud & Deployment concepts<br>Web Security fundamentals<br>Experience<br><br>DRDO Internship (Hyderabad)<br>Built multiple desktop applications using Python & PyQt, including:<br>XML file viewer<br>Search engine with themes<br>Language translator<br>Utility-based desktop tools<br>This experience helped me understand software design, debugging, and user-focused development.<br><br>What I’m Looking For<br><br>Software Engineering Internships / Entry-level roles<br>Opportunities to work on real-world products<br>Teams that value learning, clean code, and problem-solving<br>How to Reach Me<br><br>📧 Email: mohithpupppala@gmail.com<br>💼 LinkedIn: www.linkedin.com/in/mohithpuppala<br>🌐 Portfolio: https://nextjs-portfolio-st21rq83o-mohiths-projects-219e2361.vercel.app/<br>A Bit More About Me<br><br>I prefer understanding fundamentals over shortcuts<br>I enjoy improving projects step-by-step rather than rushing results<br>Interested in systems, Frameworks, and scalable software<br>Thanks for stopping by! 😊<br>Feel free to explore my repositories and reach out.
 
